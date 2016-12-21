@@ -1,0 +1,71 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=EB+Garamond|Quicksand';
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
+/* fonts above this line  */
+
+body {
+  height: 1500px;
+  position: relative;
+  font-family: EB Garamond
+}
+
+#subscribe {
+  padding-bottom: 60px;
+}
+.title {
+  padding-bottom: 20px;
+  font-family: Quicksand;
+  font-size: 45px;
+}
+
+#positions {
+  padding-top: 230px;
+  font-family: Montserrat;
+  font-size: 22px;
+}
+
+body p {
+  font-size: 24px;
+}
+
+#myNavbar {
+  font-size: 20px;
+  font-family: Roboto;
+}
+
+#img-text {
+  padding-bottom: 70px;
+}
+
+#intro {
+  padding-top: 20px;
+  font-size: 24px;
+}
+
+#about {
+  padding: 50px;
+  height: 695px;
+  background-color: #ff7b29;
+  color: white;
+}
+
+#portfolio {
+  padding-top: 50px;
+  height: 650px;
+  color: #fff;
+  background-color: #0087cc;
+}
+
+#contact {
+  padding-top: 50px;
+  height: 600px;
+  color: ;
+  background-color: yellow;
+}
+
+.me {
+  margin: 20px 0px 15px 15px;
+  width: 280px;
+  float: right;
+}
